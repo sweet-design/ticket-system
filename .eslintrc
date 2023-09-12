@@ -1,0 +1,8 @@
+{
+  "extends": "eslint-config-egg",
+  "root": true,
+  "rules": {
+    "no-unused-vars": "off",
+    "array-bracket-spacing": ["error", "never"]
+  }
+}
